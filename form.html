@@ -7,14 +7,32 @@
 </head>
 <body>
     <center><h2>LOGIN PAGE</h2></center>
-    <form>
+    <form action="thankyou.html" method="post" name="form" target="_blank" >
         <center>
         <label for="username">Username:</label>
         <input type="text" id="username" name="username" value="Akarsh"><br><br></input>
         <label for="password">Password:</label>
-        <input type="password" id="password" name="password" value="12342424"><br></input><br>
+        <input type="password" id="password" name="password" required ><br></input><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required placeholder="example@gmail.com"><br></input><br>
         
-        <input type="button" value="submit"></input></center>
+        
+        <p>SELECT YOUR AGE</p>
+        <input type="radio" id="age1" name="age" value="18-25">
+        <label for="age1">18-25</label><br>
+        <input type="radio" id="age2" name="age" value="25-35">
+        <label for="age2">25-35</label><br>
+        <input type="radio" id="age3" name="age" value="35-45">
+        <label for="age3">35-45</label><br><br>
+        <label for="PROFESSION">CHOOSE YOUR PROFESSION </label><br><br>
+        <select id="PROFESSION" name="PROFESSION"  ><br>
+          <option value="MNC">MNC</option>
+          <option value="GOVT">GOVT</option>
+          <option value="SELF-EMPLOYED">SELF-EMPLOYED</option>
+          
+        </select><br><br>
+        <input type="submit" value="Submit"></input>
+      </center>
     </form>
 
 </body>
