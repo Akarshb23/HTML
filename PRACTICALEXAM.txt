@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<body>
+<center> <h1> <i>RESUME</i> </h1> 
+<img src="AkarshBhardwaj.jpg" type="jpg" > Akarsh </img>
+</center>
+
+
+<h2><b> BASIC DETAILS </h2></b>
+
+<ul>
+   <li>NAME-AKARSH BHARDWAJ</li>
+   <li>DOB - 23/06/2007</li>
+   <li>GENDER-MALE</li>
+   <li>AGE-18</li>
+</ul><br>
+
+
+<h2> QUALIFICATION DETAILS </h2>
+
+<ol type="A">
+   <li>12th passed</li>
+   <li>CSE BRANCH</li>
+   <li>PURSUING BTECH</li>
+   
+</ol><br>
+
+
+<h2>ABOUT ME </h2>
+<p><u><i><b> MY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABAD MY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABADMY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABADMY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABADMY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABADMY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABADMY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABADMY NAME IS AKARSH BHARDWAJ AND I AM CURRENTLY PURSUING BTECH IN ABES ENGINEERING COLLEGE GHAZIABAD
+
+
+
+
+</b></i></u></p>
+
+
+
+
+<h2><u>INTERNSHIP EXPREINCE</u></h2>
+<ol type="A">
+            <li> GOOGLE
+                <ul type="circle">
+                    <li> 1 month exp</li>
+                    <li>Certified as best working intern</li>
+                    
+                </ul>
+            </li>
+            <li> MICROSOFT
+                <ul type="square">
+                    <li>6 month exp</li>
+                    <li>Most hardworking intern award</li>
+                    
+                </ul>
+            </li>
+</ol>
+        
+
+
+
+</body>
+</html>
