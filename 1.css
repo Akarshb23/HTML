@@ -1,0 +1,17 @@
+.bat {
+    width: 32px;                  /* width of one frame */
+    height: 32px;                 /* height of one frame */
+    background-image: url('bat-sprite.png'); /* your sprite sheet */
+    background-repeat: no-repeat;
+    background-position: 0 0;
+
+    position: relative;
+    transform: scale(4);          /* scale up (optional) */
+    animation: flap 0.4s steps(6) infinite;
+}
+
+@keyframes flap {
+    to {
+        background-position: -192px 0; /* 32 * 6 = 192 */
+    }
+}

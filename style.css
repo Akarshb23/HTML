@@ -1,5 +1,5 @@
 #box1{
-    color: black;
+    color: rgb(249, 245, 245);
       font-size: small;
       font-family: 'Courier New', Courier, monospace;
       padding: 12px;
@@ -7,7 +7,7 @@
       border: 2px solid black;
       box-shadow: 0 0 10px rgba(0,0,0,0.15);
       margin: 20px;
-      background-color: aquamarine;
+      background-color: rgb(65, 9, 67);
 }
 #box2{
     color: rgb(252, 251, 251);
